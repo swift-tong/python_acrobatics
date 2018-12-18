@@ -5,3 +5,9 @@
  
 2.play_patch.py：
   自动打patch。
+  
+3.dealCheckList.py:
+  写checklist文档
+ 
+4.transport.py：
+  
